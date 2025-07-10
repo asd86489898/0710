@@ -1,6 +1,6 @@
 name: Run python
 on:
-  push:
+    push:
 jobs:
   build:
     name: env1
